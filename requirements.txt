@@ -3,3 +3,8 @@ pandas==3.0.3
 numpy==2.4.4
 pygments==2.20.0
 matplotlib==3.10.9
+torch==2.12.0
+torchvision==0.27.0
+opencv-python==4.13.0.92
+scikit-learn ==1.8.0
+pyocotools==2.0.11
